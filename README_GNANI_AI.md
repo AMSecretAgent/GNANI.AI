@@ -32,9 +32,8 @@ Apna Saathi is a working prototype of a **physical, voice-enabled AI assistant**
 
 ### Live demonstration
 
-**[▶ Watch the 60-second demo](INSERT_PUBLIC_DEMO_URL)** · **[LinkedIn launch post](INSERT_LINKEDIN_POST_URL)** · **[X launch post](INSERT_X_POST_URL)**
+**[▶ Watch the 60-second demo](https://drive.google.com/drive/folders/1rITObumlxxv7eg6ds7E835D7uKrlckrb)**  · **[X launch post](https://x.com/akansha_u/status/2121936030026846437?a=eEMc37-AJe5E2MqjQ64&s=20)**
 
-> Replace the links above with actual published URLs before sharing the repository as a submission. Do not present a recorded demo as live unless it genuinely shows the working device.
 
 ---
 
