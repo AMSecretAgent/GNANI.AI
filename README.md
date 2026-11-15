@@ -379,11 +379,6 @@ This Gnani AI integration extends that work with Indian speech recognition and s
 
 ---
 
-## 📄 License
-
-This repository includes components distributed under the MIT License. See [LICENSE](LICENSE) for the original copyright and license terms.
-
----
 
 ### Technology becomes meaningful when people can actually use it.
 
