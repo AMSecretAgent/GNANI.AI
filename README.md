@@ -331,19 +331,7 @@ Code-mixed speech is an important intended use case. Eligibility for this catego
 
 ---
 
-## 🎥 Working Demo
 
-**Demo video:** [Add public demo link]
-
-**LinkedIn post:** [Add LinkedIn submission link]
-
-**X post:** [Add X submission link, if applicable]
-
-A strong demonstration should show a real person speaking to the device, Gnani AI processing the speech, the local model generating a response, and the device speaking back.
-
-The demonstration should clearly distinguish tested functionality from future plans.
-
----
 
 ## 🔭 What's Next?
 
